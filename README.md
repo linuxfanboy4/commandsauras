@@ -1,6 +1,5 @@
 # CommandSaurus - A Prehistoric Command Line Adventure
 
-![CommandSaurus Logo](https://raw.githubusercontent.com/linuxfanboy4/commandsauras/main/saurs.py)  
 *Step into a world where Unix commands meet Jurassic sparks!*
 
 ## Description
